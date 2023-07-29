@@ -8,4 +8,6 @@ Avaiable settings are:
 - password length
 - alphabet
 
+Since everything is done in RAM, password length (excluding prefix and suffix) should be <= 5
+
 ![Example](/screenshot.png?raw=true "Screenshot")
