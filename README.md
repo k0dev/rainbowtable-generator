@@ -8,6 +8,6 @@ Avaiable settings are:
 - password length
 - alphabet
 
-Since everything is done in RAM, password length (excluding prefix and suffix) should be <= 5
+With 16gb ram, password length (excluding prefix and suffix) should be <= 5 and the alphabet length should be <= 36
 
 ![Example](/screenshot.png?raw=true "Screenshot")
